@@ -694,7 +694,7 @@ body header img{
 .asidebar p{
     font-weight: 700;
 }
-.column{
+.column0{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -702,7 +702,7 @@ body header img{
     gap: 16px;
     padding-bottom: 20px;
 }
-.column a{
+.column0 a{
     text-decoration: none;
     color: #fff;
     font-family: 'Inter', sans-serif;
@@ -712,7 +712,7 @@ body header img{
     display: inline-block;
     padding: 4px 4px 4px 4px;
 }
-.column a:hover{
+.column0 a:hover{
     background-color: #ffffff39;
     /* padding: 2px 2px 2px 2px; */
 }
